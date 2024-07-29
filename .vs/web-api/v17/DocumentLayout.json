@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25A29780-A90C-495E-A180-56FAA69F2D48}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\dell\\documents\\projetos dev\\api-estudos\\taskmanagement-system\\web-api\\taskmanagementsystem\\repositories\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A29780-A90C-495E-A180-56FAA69F2D48}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\repositories\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A29780-A90C-495E-A180-56FAA69F2D48}|TaskManagementSystem\\TaskManagementSystem.csproj|C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\taskmanagementsystem\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A29780-A90C-495E-A180-56FAA69F2D48}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A29780-A90C-495E-A180-56FAA69F2D48}|TaskManagementSystem\\TaskManagementSystem.csproj|C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\taskmanagementsystem\\repositories\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A29780-A90C-495E-A180-56FAA69F2D48}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\repositories\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A29780-A90C-495E-A180-56FAA69F2D48}|TaskManagementSystem\\TaskManagementSystem.csproj|C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\taskmanagementsystem\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A29780-A90C-495E-A180-56FAA69F2D48}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A29780-A90C-495E-A180-56FAA69F2D48}|TaskManagementSystem\\TaskManagementSystem.csproj|C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\taskmanagementsystem\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A29780-A90C-495E-A180-56FAA69F2D48}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A29780-A90C-495E-A180-56FAA69F2D48}|TaskManagementSystem\\TaskManagementSystem.csproj|C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\taskmanagementsystem\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A29780-A90C-495E-A180-56FAA69F2D48}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TarefasController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\TaskManagementSystem\\Controllers\\TarefasController.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Controllers\\TarefasController.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\TaskManagementSystem\\Controllers\\TarefasController.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Controllers\\TarefasController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:24:44.48Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\TaskManagementSystem\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Models\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\TaskManagementSystem\\Models\\Tarefa.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Models\\Tarefa.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:24:12.52Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\TaskManagementSystem\\Repositories\\Usuario.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Repositories\\Usuario.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\TaskManagementSystem\\Repositories\\Usuario.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Repositories\\Usuario.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAiwMQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:15:48.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\TaskManagementSystem\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\TaskManagementSystem\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAASwGgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T19:57:15.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\TaskManagementSystem\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\TaskManagementSystem\\Models\\Usuario.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAEwBYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T23:02:50.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\TaskManagementSystem\\Repositories\\Tarefa.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Repositories\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\Projetos DEV\\Api-Estudos\\TaskManagement-System\\web-api\\TaskManagementSystem\\Repositories\\Tarefa.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Repositories\\Tarefa.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAywCQAAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:26:04.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
